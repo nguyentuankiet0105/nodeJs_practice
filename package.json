@@ -1,0 +1,30 @@
+{
+  "name": "practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nguyentuankiet0105/nodeJs_practice.git"
+  },
+  "keywords": [
+    "pracvice",
+    "nodejs"
+  ],
+  "author": "kietnt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nguyentuankiet0105/nodeJs_practice/issues"
+  },
+  "homepage": "https://github.com/nguyentuankiet0105/nodeJs_practice#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  }
+}
